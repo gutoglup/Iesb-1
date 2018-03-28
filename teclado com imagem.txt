@@ -1,0 +1,27 @@
+// Ligar btn com viewController
+// Ligar constraint a viewController
+// Setar constraint
+// Guardar valor inicial da posição do botao
+// Criar variavel de valor inicial
+// willAppear
+// willDisappear
+// oTecladoApareceu
+// oTecladoDesapareceu
+// (extension ViewController: UITextFieldDelegate {
+    
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        textField.resignFirstResponder()
+        return true
+    }
+    
+})
+
+Imagem
+// Criar UIImage
+// Ligar a view Controller
+// Criar Loader
+// seter endereco da imagem
+// var image didset include exibir imagem in processo principal
+// didAppear
+// exibirImagem
+// baixarImagem
